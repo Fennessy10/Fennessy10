@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 My name is Patrick Fennessy, and I'm a IT student majoring in Software Engineering interested in all things programming
 
